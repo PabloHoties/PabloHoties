@@ -4,6 +4,8 @@
 - [**javaCrudJdbc**](https://github.com/PabloHoties/javaCrudJdbc) - CRUD de "Pessoa" com JDBC e PostgreSQL.
 - [**javaCrudAlunoJdbc**](https://github.com/PabloHoties/javaCrudAlunoJdbc) - CRUD de "Aluno" com JDBC e PostgreSQL.
 - [**javaCrudFuncionarioJdbc**](https://github.com/PabloHoties/javaCrudFuncionarioJdbc) - CRUD de "Funcionario" com JDBC e PostgreSQL.
+- [**javaPrintWriterPedido**](https://github.com/PabloHoties/javaPrintWriterPedido) - Gravação de dados de "Pedido" para TXT e XML.
+- [**javaPrintWriterTurma**](https://github.com/PabloHoties/javaPrintWriterTurma) - Gravação de dados de "Turma" para TXT e XML.
 
 ## Spring Boot
 
